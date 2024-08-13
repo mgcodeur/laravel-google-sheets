@@ -1,5 +1,5 @@
 {
-  "name": "revolution/laravel-google-sheets",
+  "name": "mgcodeur/laravel-google-sheets",
   "description": "Google Sheets API v4",
   "keywords": [
     "google",
@@ -9,8 +9,8 @@
   "license": "MIT",
   "require": {
     "php": "^8.2",
-    "illuminate/container": "^11.0",
-    "illuminate/support": "^11.0",
+    "illuminate/container": "^9.0||^10.0||^11.0",
+    "illuminate/support": "^9.0||^10.0||^11.0",
     "google/apiclient": "^2.16"
   },
   "require-dev": {
